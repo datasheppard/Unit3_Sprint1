@@ -264,9 +264,20 @@ career here, you'll have to answer the following:
 - What, in your opinion, is an important part of code reviews? That is, what is
   something you pay attention to when you review code, and that you appreciate
   when others do the same for your code?
+  
+  Ledgebility and understanding of objective. U look for a try to demonstrate 
+  the ,ost effective code I posibly can. I will give notes if needed and aprreciate 
+  whe other do as well. When working under the time contraint of an SC, I often find my 
+  code lacing notes and clarity whish is why I clean up my code first and will often 
+  save my notes for after the SC is completed.
+  
 - We have an awful lot of computers here, and it gets pretty confusing with
   slightly different things running on all of them. How could containers help us
   improve this situation?
+  
+  Cinatiners do exactly what their name emplies, contain. Meaning, everything needed 
+  to run the given code, is stored in the contatiner so that it can be run on any 
+  computer including the imports needed to run the code.
 
 Answer both of these questions (baseline ~5 sentences) here in text.
 
